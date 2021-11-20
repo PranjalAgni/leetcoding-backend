@@ -49,28 +49,43 @@ const getCategoryVsSolutionMap = async (
  *
  * @param {string} leetcodeDirectory
  * @param {Map<string, string[]>} categorySolutionMap
- * @returns {{name: string, category: string, createdAt: string}[]} solutionInfoList
+ * @returns {{[name: string]: string[]]}} solutionInfo
  */
-const prepareSolutionInfoList = async (
+const prepareSolutionInfoObject = async (
   leetcodeDirectory,
   categorySolutionMap
 ) => {
-  const solutionInfoList = [];
-  for (const [category, solutionList] of categorySolutionMap) {
-    for (let idx = 0; idx < solutionList.length; idx++) {
-      const solutionName = solutionList[idx];
+  const solutionInfo = {};
+  for (const [category, solutions] of categorySolutionMap) {
+    const solutionList = [];
+    for (const solutionName of solutions) {
       const solutionPath = path.join(leetcodeDirectory, category, solutionName);
       const solutionStats = await fs.lstat(solutionPath);
       const solutionInfo = {
         name: solutionName,
-        category,
         createdAt: solutionStats.birthtime,
       };
-      solutionInfoList.push(solutionInfo);
+      solutionList.push(solutionInfo);
     }
+
+    solutionInfo[category] = solutionList;
   }
 
-  return solutionInfoList;
+  return solutionInfo;
+};
+
+/**
+ *
+ * @param {{[name: string]: string[]]}} solutionInfo
+ */
+const writeSolutionDataToDisk = async (solutionInfo) => {
+  const startTime = process.hrtime.bigint();
+  const solutionDataFile = path.join(__dirname, 'data', 'solution-info.json');
+  await fs.writeFile(solutionDataFile, JSON.stringify(solutionInfo, null, 2));
+
+  console.log(
+    `Successfully written the data: ${process.hrtime.bigint() - startTime}`
+  );
 };
 
 const main = async () => {
@@ -84,11 +99,12 @@ const main = async () => {
     questionCategory
   );
 
-  const solutionInfoList = await prepareSolutionInfoList(
+  const solutionInfo = await prepareSolutionInfoObject(
     config.leetcodeDir,
     categorySolutionMap
   );
-  console.log(solutionInfoList);
+
+  await writeSolutionDataToDisk(solutionInfo);
 };
 
 main();
