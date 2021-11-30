@@ -4,7 +4,7 @@
   "description": "Reads about the latest algorithmic problem I solved, and stores it in the DB",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "scrape": "node src/core/scrape.js"
   },
   "keywords": [],
   "author": "",
