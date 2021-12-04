@@ -1,12 +1,12 @@
 const Fastify = require('fastify');
 const connectDB = require('./db/');
-const intializeRoutes = require('./routes/');
+const registerAPI = require('./routes/');
 
 const initalizeApp = (opts = {}) => {
   connectDB();
   const fastify = Fastify(opts);
 
-  fastify.register(intializeRoutes);
+  fastify.register(registerAPI);
 
   return fastify;
 };
