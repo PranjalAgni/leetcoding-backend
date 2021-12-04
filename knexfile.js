@@ -11,6 +11,9 @@ module.exports = {
       password: db.password,
       database: db.name,
     },
+    migrations: {
+      directory: 'db/migrations',
+    },
   },
 
   production: {},

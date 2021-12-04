@@ -1,4 +1,4 @@
-const config = require('../config');
+const config = require('../../src/config/');
 const path = require('path');
 const fs = require('fs/promises');
 const {
@@ -53,7 +53,11 @@ const scrape = async () => {
     categorySolutionMap
   );
 
-  const solutionPath = path.join(__dirname, '../data', 'solution-info.json');
+  const solutionPath = path.join(
+    __dirname,
+    '../../db/data',
+    'solution-info.json'
+  );
   await writeSolutionDataToDisk(solutionPath, solutionInfo);
 };
 
