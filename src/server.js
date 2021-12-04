@@ -1,7 +1,7 @@
 const config = require('./config/');
 const initalizeApp = require('./app');
 
-const main = async () => {
+const startServer = async () => {
   const fastify = initalizeApp({ logger: true });
   fastify.listen(config.port, (err, address) => {
     if (err) {
@@ -13,4 +13,4 @@ const main = async () => {
   });
 };
 
-main();
+startServer();
