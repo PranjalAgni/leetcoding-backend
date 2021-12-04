@@ -4,12 +4,23 @@
   "description": "Reads about the latest algorithmic problem I solved, and stores it in the DB",
   "main": "src/index.js",
   "scripts": {
-    "scrape": "node src/core/scrape.js"
+    "scrape": "node src/core/scrape.js",
+    "migrate": "knex migrate:latest",
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^8.2.0"
+    "eslint": "^8.2.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fastify": "^3.24.1",
+    "knex": "^0.95.14",
+    "objection": "^3.0.0",
+    "pg": "^8.7.1"
   }
 }
