@@ -6,6 +6,8 @@
   "scripts": {
     "script:scrape": "node internals/scripts/scrape.js",
     "migrate": "knex migrate:latest",
+    "rollback": "knex migrate:rollback",
+    "seed": "knex seed:run",
     "dev": "nodemon src/server.js",
     "start": "node src/server.js"
   },
