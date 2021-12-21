@@ -8,7 +8,9 @@ const { getProblemsTags, getProblemsJSON } = require('../helpers/data');
  *
  */
 exports.seed = async function (knex) {
-  await knex(tableNames.tags).del();
+  await Promise.all(
+    Object.values(tableNames).map((tableName) => knex(tableName).del())
+  );
   const tagNamesList = await getProblemsTags();
   const rows = tagNamesList.map((tagName, idx) => ({
     pk_tag_id: idx,
