@@ -2,9 +2,14 @@ const fs = require('fs/promises');
 const path = require('path');
 
 const getProblemsTags = async () => {
+  const problemsJson = await getProblemsJSON();
+  return Object.keys(problemsJson);
+};
+
+const getProblemsJSON = async () => {
   const dataPath = getDataFilePath();
   const problemsJson = await fs.readFile(dataPath, 'utf-8');
-  return Object.keys(JSON.parse(problemsJson));
+  return JSON.parse(problemsJson);
 };
 
 const getDataFilePath = () => {
@@ -13,4 +18,5 @@ const getDataFilePath = () => {
 
 module.exports = {
   getProblemsTags,
+  getProblemsJSON,
 };

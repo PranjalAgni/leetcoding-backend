@@ -8,6 +8,7 @@
     "migrate": "knex migrate:latest",
     "rollback": "knex migrate:rollback",
     "seed": "knex seed:run",
+    "preseed": "npm run script:scrape",
     "dev": "nodemon src/server.js",
     "start": "node src/server.js"
   },
