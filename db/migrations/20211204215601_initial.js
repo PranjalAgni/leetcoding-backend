@@ -25,6 +25,11 @@ exports.up = async function (knex) {
     table.datetime('solution_created_at').notNullable();
     addTimestampColumns(table);
   });
+
+  await knex.raw(`ALTER SEQUENCE lu_problem_tags_pk_tag_id_seq RESTART WITH 1`);
+  await knex.raw(
+    `ALTER SEQUENCE problems_solved_timeline_pk_problems_solved_timeline_id_seq RESTART WITH 1`
+  );
 };
 
 /**
