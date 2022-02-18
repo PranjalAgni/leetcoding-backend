@@ -32,8 +32,10 @@ exports.up = async function (knex) {
  * @param {Knex} knex
  */
 exports.down = async function (knex) {
-  const tableNamesList = Object.values(tableNames);
-  await Promise.all(
-    tableNamesList.map((tableName) => knex.schema.dropTable(tableName))
-  );
+  // const tableNamesList = Object.values(tableNames);
+  await knex.schema.dropTable(tableNames.problemsSolvedTimeline);
+  await knex.schema.dropTable(tableNames.problemsSolvedTimeline);
+  // await Promise.all(
+  //   tableNamesList.map((tableName) => knex.schema.dropTable(tableName))
+  // );
 };
