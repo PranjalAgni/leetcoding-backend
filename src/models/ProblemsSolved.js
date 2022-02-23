@@ -15,16 +15,28 @@ class ProblemsSolved extends Model {
         pk_problems_solved_timeline_id: { type: 'integer' },
         problem_name: {
           type: 'string',
-          minLength: 1,
-          maxLength: 255,
+          maxLength: 500,
         },
         problem_url: {
           type: 'string',
-          minLength: 5,
-          maxLength: 500,
+          maxLength: 1000,
         },
         solution_created_at: {
-          type: 'Date',
+          type: 'date-time',
+        },
+      },
+    };
+  }
+
+  static get relationMappings() {
+    const Tag = require('./Tag');
+    return {
+      fk_tag_id: {
+        relation: Model.HasManyRelation,
+        modelClass: Tag,
+        join: {
+          from: `${tableNames.problemsSolvedTimeline}.fk_tag_id`,
+          to: `${tableNames.tags}.pk_tag_id`,
         },
       },
     };
