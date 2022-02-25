@@ -13,4 +13,9 @@ It parses the leetcode solutions directory, and generates a map of required data
 
 This data is then processed and inserted to DB.
 
-`WIP: Still figuring out which REST API framework to use, want to try something other than Express`
+### Tech Stack
+
+- NodeJS - Runtime
+- ObjectionJS - ORM
+- Knex - Query builder and runner
+- PostgresSQL - Database
