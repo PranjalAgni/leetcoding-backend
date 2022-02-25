@@ -15,7 +15,8 @@ const connectDB = () => {
     },
   });
 
-  Model(knex);
+  // passes the knex instance to Objection models
+  Model.knex(knex);
   return knex;
 };
 
