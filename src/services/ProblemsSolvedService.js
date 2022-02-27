@@ -5,6 +5,14 @@ class ProblemsSolvedService {
     const problemsSolved = await ProblemsSolved.query();
     return problemsSolved;
   }
+
+  async getProblemsSolvedByTagId(tagId) {
+    const problemsSolved = await ProblemsSolved.query().where({
+      fk_tag_id: tagId,
+    });
+
+    return problemsSolved;
+  }
 }
 
 module.exports = new ProblemsSolvedService();
