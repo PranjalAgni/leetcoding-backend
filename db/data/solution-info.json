@@ -1,12 +1,32 @@
 {
   "Adhoc": [
     {
+      "name": "design-peeking-iterator.cpp",
+      "createdAt": "2022-04-25T18:28:04.575Z"
+    },
+    {
+      "name": "design-underground.cpp",
+      "createdAt": "2022-04-24T18:53:12.775Z"
+    },
+    {
+      "name": "fibonacci-number.cpp",
+      "createdAt": "2022-07-06T18:19:18.080Z"
+    },
+    {
+      "name": "matchsticks-to-square.cpp",
+      "createdAt": "2022-07-12T18:06:11.932Z"
+    },
+    {
       "name": "max-distance-between-houses.cpp",
       "createdAt": "2021-11-27T10:58:41.040Z"
     },
     {
       "name": "minimum-buckets-to-trap-rainwater.cpp",
       "createdAt": "2021-11-27T21:49:13.119Z"
+    },
+    {
+      "name": "number-of-steps-to-reduce-zero.cpp",
+      "createdAt": "2022-05-29T16:39:18.221Z"
     },
     {
       "name": "subsequence-of-length-k-max-sum.cpp",
@@ -19,8 +39,16 @@
   ],
   "Arrays": [
     {
+      "name": "3-sum-multiples.cpp",
+      "createdAt": "2022-04-06T18:13:44.380Z"
+    },
+    {
       "name": "4sum-ii.cpp",
       "createdAt": "2022-02-03T18:23:01.653Z"
+    },
+    {
+      "name": "arithmetic-slices.cpp",
+      "createdAt": "2022-03-03T18:24:16.851Z"
     },
     {
       "name": "array-of-products.cpp",
@@ -33,6 +61,14 @@
     {
       "name": "contiguous-arrays.cpp",
       "createdAt": "2022-02-04T18:29:09.886Z"
+    },
+    {
+      "name": "delete-and-earn.cpp",
+      "createdAt": "2022-03-06T18:31:00.506Z"
+    },
+    {
+      "name": "find-the-duplicate-number.cpp",
+      "createdAt": "2022-03-29T17:33:00.573Z"
     },
     {
       "name": "first-duplicate-value.cpp",
@@ -61,6 +97,18 @@
     {
       "name": "lru.cpp",
       "createdAt": "2022-01-25T19:54:08.921Z"
+    },
+    {
+      "name": "majority-element.cpp",
+      "createdAt": "2022-02-22T18:14:43.310Z"
+    },
+    {
+      "name": "max-number-of-k-sum-pairs.cpp",
+      "createdAt": "2022-05-04T17:48:07.563Z"
+    },
+    {
+      "name": "maximum-erasure-value.cpp",
+      "createdAt": "2022-06-12T18:26:53.461Z"
     },
     {
       "name": "maximum-matrix-sum.cpp",
@@ -95,6 +143,10 @@
       "createdAt": "2021-11-30T20:07:29.008Z"
     },
     {
+      "name": "reduce-array-size-to-half.cpp",
+      "createdAt": "2022-08-19T05:25:19.755Z"
+    },
+    {
       "name": "remove-half-list-minimum-operation.cpp",
       "createdAt": "2021-08-12T18:20:04.723Z"
     },
@@ -111,8 +163,16 @@
       "createdAt": "2022-01-30T17:13:27.346Z"
     },
     {
+      "name": "running-sum-1D-array.cpp",
+      "createdAt": "2022-06-07T18:21:51.645Z"
+    },
+    {
       "name": "selling-products.cpp",
       "createdAt": "2021-07-13T19:35:12.776Z"
+    },
+    {
+      "name": "shortest-contiguous-unsorted-subarray-length.cpp",
+      "createdAt": "2022-05-03T17:28:43.640Z"
     },
     {
       "name": "single-cycle-check.cpp",
@@ -179,6 +239,10 @@
     {
       "name": "plates-between-candle.cpp",
       "createdAt": "2021-11-04T19:48:18.360Z"
+    },
+    {
+      "name": "search-2d-matrix.cpp",
+      "createdAt": "2022-03-30T18:03:07.271Z"
     },
     {
       "name": "search-for-range.cpp",
@@ -253,6 +317,14 @@
       "createdAt": "2021-11-29T08:56:39.155Z"
     },
     {
+      "name": "longest-increasing-path-in-matrix.cpp",
+      "createdAt": "2022-05-27T17:59:42.053Z"
+    },
+    {
+      "name": "max-area-of-islands.cpp",
+      "createdAt": "2022-07-16T16:04:33.328Z"
+    },
+    {
       "name": "min-matrix-passes-optimized.cpp",
       "createdAt": "2021-07-02T16:29:22.323Z"
     },
@@ -275,6 +347,10 @@
   ],
   "Greedy": [
     {
+      "name": "boats-to-save-people.cpp",
+      "createdAt": "2022-03-24T18:26:44.745Z"
+    },
+    {
       "name": "buy-and-sell-stock-atmost-2-transactions.cpp",
       "createdAt": "2021-09-12T18:47:14.216Z"
     },
@@ -287,12 +363,24 @@
       "createdAt": "2021-12-16T18:28:30.429Z"
     },
     {
+      "name": "container-with-most-water.cpp",
+      "createdAt": "2022-04-05T18:10:47.621Z"
+    },
+    {
       "name": "merge-overlapping-intervals.cpp",
       "createdAt": "2021-06-04T18:28:05.721Z"
     },
     {
       "name": "minimum-waiting-time.cpp",
       "createdAt": "2021-06-01T18:00:31.083Z"
+    },
+    {
+      "name": "my-calendar.cpp",
+      "createdAt": "2022-08-19T05:43:05.952Z"
+    },
+    {
+      "name": "number-of-weak-characters-in-game.cpp",
+      "createdAt": "2022-09-10T18:21:06.981Z"
     },
     {
       "name": "tandem-bicycle.cpp",
@@ -311,6 +399,14 @@
     {
       "name": "binary-subarray-with-sum-k.cpp",
       "createdAt": "2021-11-30T19:10:23.036Z"
+    },
+    {
+      "name": "design-hashmap.cpp",
+      "createdAt": "2022-04-22T18:14:42.813Z"
+    },
+    {
+      "name": "design-hashset.cpp",
+      "createdAt": "2022-04-21T18:04:35.067Z"
     },
     {
       "name": "find-common-characters.cpp",
@@ -333,6 +429,10 @@
       "createdAt": "2021-12-06T12:57:54.801Z"
     },
     {
+      "name": "max-sum-of-pairs-with-equal-sum-of-digits.cpp",
+      "createdAt": "2022-07-18T18:01:19.262Z"
+    },
+    {
       "name": "minimum-character-for-words.cpp",
       "createdAt": "2021-09-14T17:58:53.731Z"
     },
@@ -343,6 +443,10 @@
     {
       "name": "subarray-sum-k.cpp",
       "createdAt": "2022-02-10T18:05:22.637Z"
+    },
+    {
+      "name": "sum-of-even-numbers-after-queries.cpp",
+      "createdAt": "2022-09-21T17:11:19.230Z"
     }
   ],
   "Heaps": [
@@ -489,6 +593,10 @@
       "createdAt": "2021-05-14T15:53:23.519Z"
     },
     {
+      "name": "sort-list.cpp",
+      "createdAt": "2022-02-25T18:24:52.182Z"
+    },
+    {
       "name": "split-linked-list-in-parts.cpp",
       "createdAt": "2021-05-25T20:36:30.926Z"
     },
@@ -511,12 +619,32 @@
       "createdAt": "2022-02-08T18:04:55.984Z"
     },
     {
+      "name": "calculate-digit-sum-of-string.cpp",
+      "createdAt": "2022-04-17T12:53:38.339Z"
+    },
+    {
+      "name": "is-power-of-4.cpp",
+      "createdAt": "2022-08-23T17:06:04.740Z"
+    },
+    {
+      "name": "is-power-of-three.cpp",
+      "createdAt": "2022-08-24T19:13:57.201Z"
+    },
+    {
+      "name": "missing-number.cpp",
+      "createdAt": "2022-05-30T17:59:31.443Z"
+    },
+    {
       "name": "permutation.cpp",
       "createdAt": "2021-07-27T21:44:20.943Z"
     },
     {
       "name": "powerset.cpp",
       "createdAt": "2021-08-04T18:20:19.435Z"
+    },
+    {
+      "name": "reordered-power-of-2.cpp",
+      "createdAt": "2022-08-28T08:48:22.438Z"
     }
   ],
   "Pointers": [
@@ -545,6 +673,10 @@
   ],
   "Recursion": [
     {
+      "name": "letter-combination-of-phone-number.cpp",
+      "createdAt": "2022-05-09T17:19:28.184Z"
+    },
+    {
       "name": "max-subset-sum-no-adjacent.cpp",
       "createdAt": "2021-06-14T18:24:00.471Z"
     },
@@ -559,6 +691,16 @@
     {
       "name": "phone-number-mnemoics.cpp",
       "createdAt": "2021-08-15T15:53:44.621Z"
+    },
+    {
+      "name": "triangle.cpp",
+      "createdAt": "2022-06-14T09:25:21.883Z"
+    }
+  ],
+  "SlidingWindow": [
+    {
+      "name": "maximum-points-you-can-obtain-from-cards.cpp",
+      "createdAt": "2022-06-26T18:26:17.084Z"
     }
   ],
   "Sorting": [
@@ -573,6 +715,10 @@
     {
       "name": "find-target-index-after-sorting-array.cpp",
       "createdAt": "2021-11-28T17:23:07.213Z"
+    },
+    {
+      "name": "largest-number-after-digit-swaps-with-parity.cpp",
+      "createdAt": "2022-04-10T18:53:39.589Z"
     },
     {
       "name": "merge-k-sorted-arrays.cpp",
@@ -683,6 +829,10 @@
       "createdAt": "2021-12-03T12:54:57.167Z"
     },
     {
+      "name": "encode-and-decode-tiny-url.cpp",
+      "createdAt": "2022-04-23T17:39:41.805Z"
+    },
+    {
       "name": "find-all-anagrams-string.cpp",
       "createdAt": "2022-02-02T18:30:31.480Z"
     },
@@ -701,6 +851,10 @@
     {
       "name": "group-anagrams.cpp",
       "createdAt": "2021-08-22T17:02:55.961Z"
+    },
+    {
+      "name": "is-subsequence.cpp",
+      "createdAt": "2022-03-02T18:24:41.432Z"
     },
     {
       "name": "isomorphic-strings.cpp",
@@ -723,6 +877,14 @@
       "createdAt": "2021-09-12T10:54:51.020Z"
     },
     {
+      "name": "maximum-product-of-word-length.cpp",
+      "createdAt": "2022-05-29T18:09:37.543Z"
+    },
+    {
+      "name": "min-deletions-to-make-characters-unique.cpp",
+      "createdAt": "2022-06-28T16:57:41.048Z"
+    },
+    {
       "name": "minimum-time-to-type-word.cpp",
       "createdAt": "2021-09-08T13:41:22.764Z"
     },
@@ -731,8 +893,20 @@
       "createdAt": "2021-11-30T20:18:17.051Z"
     },
     {
+      "name": "num-matching-subsequence.cpp",
+      "createdAt": "2022-07-21T18:26:02.167Z"
+    },
+    {
       "name": "permutation-in-string.cpp",
       "createdAt": "2022-02-11T18:21:40.632Z"
+    },
+    {
+      "name": "ransom-note.cpp",
+      "createdAt": "2022-08-30T18:26:05.726Z"
+    },
+    {
+      "name": "remove-k-adjacent-duplicates.cpp",
+      "createdAt": "2022-05-06T17:52:55.708Z"
     },
     {
       "name": "reverse-the-vowels.cpp",
@@ -759,8 +933,20 @@
       "createdAt": "2021-06-02T15:11:32.419Z"
     },
     {
+      "name": "search-suggestion-system.cpp",
+      "createdAt": "2022-06-20T18:29:07.848Z"
+    },
+    {
       "name": "sentence-reversal.cpp",
       "createdAt": "2021-08-31T17:20:49.686Z"
+    },
+    {
+      "name": "simplify-paths.cpp",
+      "createdAt": "2022-03-14T17:52:43.232Z"
+    },
+    {
+      "name": "sorting-mail.cpp",
+      "createdAt": "2022-03-11T18:18:13.830Z"
     },
     {
       "name": "stream-of-characters.cpp",
@@ -772,17 +958,29 @@
     },
     {
       "name": "suffix-tries.cpp",
-      "createdAt": "2021-10-07T19:34:39.054Z"
+      "createdAt": "2022-06-20T20:19:18.623Z"
+    },
+    {
+      "name": "summary-ranges.cpp",
+      "createdAt": "2022-02-28T18:28:53.834Z"
     },
     {
       "name": "word-pattern.cpp",
       "createdAt": "2022-01-27T18:52:41.961Z"
+    },
+    {
+      "name": "word-subsets.cpp",
+      "createdAt": "2022-07-30T18:26:05.630Z"
     }
   ],
   "Trees": [
     {
       "name": "all-elements-in-two-bst.cpp",
       "createdAt": "2022-01-28T19:11:42.385Z"
+    },
+    {
+      "name": "average-of-levels-of-tree.cpp",
+      "createdAt": "2022-09-04T18:02:14.711Z"
     },
     {
       "name": "balanced-binary-tree.cpp",
@@ -809,6 +1007,10 @@
       "createdAt": "2021-05-31T18:24:20.329Z"
     },
     {
+      "name": "bst-iterator.cpp",
+      "createdAt": "2022-04-20T17:33:06.989Z"
+    },
+    {
       "name": "bst-traversal.cpp",
       "createdAt": "2021-06-08T18:15:31.297Z"
     },
@@ -825,12 +1027,20 @@
       "createdAt": "2021-06-24T17:50:42.794Z"
     },
     {
+      "name": "count-good-nodes-in-binary-tree.cpp",
+      "createdAt": "2022-09-01T18:28:13.193Z"
+    },
+    {
       "name": "count-right-smaller-than-1.cpp",
       "createdAt": "2021-10-31T05:54:59.265Z"
     },
     {
       "name": "count-right-smaller-than-2(clean).cpp",
       "createdAt": "2021-10-31T06:16:13.759Z"
+    },
+    {
+      "name": "deepest-sum-leafes.cpp",
+      "createdAt": "2022-05-16T18:13:29.066Z"
     },
     {
       "name": "depth-first-search.cpp",
@@ -843,6 +1053,10 @@
     {
       "name": "house-robbers-iii.cpp",
       "createdAt": "2021-12-10T19:07:41.353Z"
+    },
+    {
+      "name": "increasing-order-search-tree.cpp",
+      "createdAt": "2022-04-18T18:02:38.017Z"
     },
     {
       "name": "inorder-successor-iterative.cpp",
@@ -867,6 +1081,10 @@
     {
       "name": "level-order-alternating.cpp",
       "createdAt": "2021-06-11T15:51:24.059Z"
+    },
+    {
+      "name": "level-order-traversal.cpp",
+      "createdAt": "2022-07-13T18:34:12.603Z"
     },
     {
       "name": "list-to-bst.cpp",
@@ -897,6 +1115,10 @@
       "createdAt": "2021-12-14T18:25:38.593Z"
     },
     {
+      "name": "recover-bst.cpp",
+      "createdAt": "2022-04-19T18:28:23.052Z"
+    },
+    {
       "name": "subtree-with-max-average.cpp",
       "createdAt": "2021-07-04T19:17:26.857Z"
     },
@@ -911,6 +1133,12 @@
     {
       "name": "youngest-common-ancestor.cpp",
       "createdAt": "2021-06-28T18:20:10.570Z"
+    }
+  ],
+  "UnionFind": [
+    {
+      "name": "account-merge.cpp",
+      "createdAt": "2022-04-28T18:23:00.972Z"
     }
   ]
 }
