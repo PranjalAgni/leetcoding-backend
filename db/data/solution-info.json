@@ -1,6 +1,14 @@
 {
   "Adhoc": [
     {
+      "name": "average-value-of-even-numbers-that-are-divisible-by-3.cpp",
+      "createdAt": "2022-10-30T17:46:26.849Z"
+    },
+    {
+      "name": "count-number-of-distinct-integers-after-reverse-operations.cpp",
+      "createdAt": "2022-10-21T17:00:34.506Z"
+    },
+    {
       "name": "design-peeking-iterator.cpp",
       "createdAt": "2022-04-25T18:28:04.575Z"
     },
@@ -9,8 +17,20 @@
       "createdAt": "2022-04-24T18:53:12.775Z"
     },
     {
+      "name": "determine-if-two-events-have-conflict.cpp",
+      "createdAt": "2022-10-23T05:29:41.542Z"
+    },
+    {
       "name": "fibonacci-number.cpp",
       "createdAt": "2022-07-06T18:19:18.080Z"
+    },
+    {
+      "name": "integer-to-roman.cpp",
+      "createdAt": "2022-10-20T18:00:53.932Z"
+    },
+    {
+      "name": "largest-positive-integer-that-exists-with-its-negative.cpp",
+      "createdAt": "2022-10-21T12:26:45.637Z"
     },
     {
       "name": "matchsticks-to-square.cpp",
@@ -29,8 +49,20 @@
       "createdAt": "2022-05-29T16:39:18.221Z"
     },
     {
+      "name": "number-of-valid-clock-times.cpp",
+      "createdAt": "2022-10-28T18:40:16.412Z"
+    },
+    {
       "name": "subsequence-of-length-k-max-sum.cpp",
       "createdAt": "2021-12-12T16:57:36.263Z"
+    },
+    {
+      "name": "sum-of-number-and-its-reverse.cpp",
+      "createdAt": "2022-10-22T17:01:53.423Z"
+    },
+    {
+      "name": "toeplitz-matrix.cpp",
+      "createdAt": "2022-10-31T17:50:55.658Z"
     },
     {
       "name": "watering-plants.cpp",
@@ -75,6 +107,10 @@
       "createdAt": "2021-06-04T18:27:41.044Z"
     },
     {
+      "name": "image-overlap.cpp",
+      "createdAt": "2022-10-27T17:30:19.209Z"
+    },
+    {
       "name": "intersection-arrays.cpp",
       "createdAt": "2022-01-14T18:24:42.863Z"
     },
@@ -93,6 +129,10 @@
     {
       "name": "longest-peak.cpp",
       "createdAt": "2021-06-03T18:28:23.739Z"
+    },
+    {
+      "name": "longest-subsequence-with-limited-sum.cpp",
+      "createdAt": "2022-12-25T18:23:00.810Z"
     },
     {
       "name": "lru.cpp",
@@ -123,6 +163,10 @@
       "createdAt": "2021-12-20T18:21:53.984Z"
     },
     {
+      "name": "minimum-average-difference.cpp",
+      "createdAt": "2022-12-04T18:20:16.722Z"
+    },
+    {
       "name": "minimum-cost-to-move-chips.cpp",
       "createdAt": "2021-12-09T18:22:42.481Z"
     },
@@ -139,12 +183,20 @@
       "createdAt": "2021-05-31T18:04:37.510Z"
     },
     {
+      "name": "possible-bipartition.cpp",
+      "createdAt": "2022-12-21T18:15:35.055Z"
+    },
+    {
       "name": "range-sum-query.cpp",
       "createdAt": "2021-11-30T20:07:29.008Z"
     },
     {
       "name": "reduce-array-size-to-half.cpp",
       "createdAt": "2022-08-19T05:25:19.755Z"
+    },
+    {
+      "name": "remove-duplicates-from-sorted-array.cpp",
+      "createdAt": "2022-11-11T17:13:18.093Z"
     },
     {
       "name": "remove-half-list-minimum-operation.cpp",
@@ -175,6 +227,10 @@
       "createdAt": "2022-05-03T17:28:43.640Z"
     },
     {
+      "name": "shuffle-the-array.cpp",
+      "createdAt": "2023-02-06T17:54:17.451Z"
+    },
+    {
       "name": "single-cycle-check.cpp",
       "createdAt": "2021-06-22T18:24:41.630Z"
     },
@@ -203,6 +259,10 @@
       "createdAt": "2021-06-03T18:27:59.305Z"
     },
     {
+      "name": "sum-of-subarray-mins.cpp",
+      "createdAt": "2022-11-25T18:05:35.631Z"
+    },
+    {
       "name": "three-number-sort.cpp",
       "createdAt": "2021-08-16T18:15:21.256Z"
     },
@@ -217,6 +277,10 @@
     {
       "name": "validate-subsequences.cpp",
       "createdAt": "2021-05-30T19:24:56.298Z"
+    },
+    {
+      "name": "where-the-ball-will-fall.cpp",
+      "createdAt": "2022-11-01T18:35:09.749Z"
     },
     {
       "name": "wolf-of-wall-street.cpp",
@@ -285,6 +349,10 @@
     {
       "name": "max-sum-increasing-subsequence.cpp",
       "createdAt": "2021-11-16T18:36:01.646Z"
+    },
+    {
+      "name": "perfect-squares.cpp",
+      "createdAt": "2022-11-22T18:07:28.268Z"
     },
     {
       "name": "staircase-traversal-1.cpp",
@@ -401,6 +469,10 @@
       "createdAt": "2021-11-30T19:10:23.036Z"
     },
     {
+      "name": "continuous-subarray-sum.cpp",
+      "createdAt": "2022-10-26T18:27:17.119Z"
+    },
+    {
       "name": "design-hashmap.cpp",
       "createdAt": "2022-04-22T18:14:42.813Z"
     },
@@ -411,6 +483,10 @@
     {
       "name": "find-common-characters.cpp",
       "createdAt": "2022-01-01T18:29:17.456Z"
+    },
+    {
+      "name": "find-the-town-judge.cpp",
+      "createdAt": "2023-01-30T15:31:38.435Z"
     },
     {
       "name": "find-three-digits-even-number.cpp",
@@ -685,6 +761,10 @@
       "createdAt": "2021-06-15T17:59:19.709Z"
     },
     {
+      "name": "nth-tribonacci-number.cpp",
+      "createdAt": "2023-01-30T15:29:18.487Z"
+    },
+    {
       "name": "phone-number-combination.cpp",
       "createdAt": "2021-08-11T19:54:28.755Z"
     },
@@ -695,6 +775,10 @@
     {
       "name": "triangle.cpp",
       "createdAt": "2022-06-14T09:25:21.883Z"
+    },
+    {
+      "name": "where-the-ball-will-fall-recursion.cpp",
+      "createdAt": "2022-11-01T18:43:55.112Z"
     }
   ],
   "SlidingWindow": [
@@ -741,6 +825,10 @@
     {
       "name": "build-array-with-stack-operations.cpp",
       "createdAt": "2021-05-28T10:11:25.454Z"
+    },
+    {
+      "name": "daily-temperature",
+      "createdAt": "2022-12-18T17:49:11.657Z"
     },
     {
       "name": "decoded-string-at-index.cpp",
@@ -813,6 +901,10 @@
       "createdAt": "2021-12-19T17:22:51.303Z"
     },
     {
+      "name": "check-if-two-strings-are-equivalent.cpp",
+      "createdAt": "2022-10-25T10:36:28.972Z"
+    },
+    {
       "name": "common-word.cpp",
       "createdAt": "2021-10-18T18:28:28.653Z"
     },
@@ -829,6 +921,14 @@
       "createdAt": "2021-12-03T12:54:57.167Z"
     },
     {
+      "name": "delete-columns-to-sort.cpp",
+      "createdAt": "2023-01-03T18:19:10.751Z"
+    },
+    {
+      "name": "determine-string-halves-same.cpp",
+      "createdAt": "2022-12-01T18:28:18.963Z"
+    },
+    {
       "name": "encode-and-decode-tiny-url.cpp",
       "createdAt": "2022-04-23T17:39:41.805Z"
     },
@@ -839,6 +939,10 @@
     {
       "name": "find-the-difference.cpp",
       "createdAt": "2022-02-07T18:10:23.923Z"
+    },
+    {
+      "name": "find-the-index-of-the-first-occurrence-in-a-string.cpp",
+      "createdAt": "2023-03-03T12:22:32.441Z"
     },
     {
       "name": "first-non-repeating-char.cpp",
@@ -873,8 +977,16 @@
       "createdAt": "2021-07-29T18:23:55.661Z"
     },
     {
+      "name": "longest-palindrome-by-concatenating-two-letter-words.cpp",
+      "createdAt": "2022-11-03T18:27:07.794Z"
+    },
+    {
       "name": "longest-palindromic-substring.cpp",
       "createdAt": "2021-09-12T10:54:51.020Z"
+    },
+    {
+      "name": "max-length-of-concatenated-unique-string.cpp",
+      "createdAt": "2022-10-24T13:56:03.098Z"
     },
     {
       "name": "maximum-product-of-word-length.cpp",
@@ -897,6 +1009,10 @@
       "createdAt": "2022-07-21T18:26:02.167Z"
     },
     {
+      "name": "orderly-queues.cpp",
+      "createdAt": "2022-11-06T18:27:06.212Z"
+    },
+    {
       "name": "permutation-in-string.cpp",
       "createdAt": "2022-02-11T18:21:40.632Z"
     },
@@ -914,7 +1030,7 @@
     },
     {
       "name": "reverse-word-in-substring.cpp",
-      "createdAt": "2021-09-14T18:13:44.673Z"
+      "createdAt": "2022-11-22T18:08:39.495Z"
     },
     {
       "name": "robot-return-to-origin.cpp",
@@ -965,8 +1081,16 @@
       "createdAt": "2022-02-28T18:28:53.834Z"
     },
     {
+      "name": "top-k-frequent-words.cpp",
+      "createdAt": "2022-10-19T13:28:52.273Z"
+    },
+    {
       "name": "word-pattern.cpp",
       "createdAt": "2022-01-27T18:52:41.961Z"
+    },
+    {
+      "name": "word-search.cpp",
+      "createdAt": "2022-11-24T18:26:01.034Z"
     },
     {
       "name": "word-subsets.cpp",
@@ -1091,6 +1215,10 @@
       "createdAt": "2021-08-30T17:23:50.298Z"
     },
     {
+      "name": "maximum-product-of-binary-splitted-tree.cpp",
+      "createdAt": "2022-12-10T20:37:29.176Z"
+    },
+    {
       "name": "merge-binary-tree-optimized.cpp",
       "createdAt": "2021-08-15T15:54:16.387Z"
     },
@@ -1119,12 +1247,20 @@
       "createdAt": "2022-04-19T18:28:23.052Z"
     },
     {
+      "name": "same-tree.cpp",
+      "createdAt": "2023-01-10T16:13:20.944Z"
+    },
+    {
       "name": "subtree-with-max-average.cpp",
       "createdAt": "2021-07-04T19:17:26.857Z"
     },
     {
       "name": "sum-of-depths.cpp",
       "createdAt": "2021-06-01T06:07:13.895Z"
+    },
+    {
+      "name": "two-sum-in-bst.cpp",
+      "createdAt": "2022-10-09T13:09:40.851Z"
     },
     {
       "name": "valid-bst.cpp",
@@ -1139,6 +1275,10 @@
     {
       "name": "account-merge.cpp",
       "createdAt": "2022-04-28T18:23:00.972Z"
+    },
+    {
+      "name": "satisfiability-of-equations.cpp",
+      "createdAt": "2022-10-02T13:29:59.128Z"
     }
   ]
 }
