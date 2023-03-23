@@ -183,6 +183,10 @@
       "createdAt": "2021-05-31T18:04:37.510Z"
     },
     {
+      "name": "number-of-zero-filled-subarrays.cpp",
+      "createdAt": "2023-03-21T18:26:35.339Z"
+    },
+    {
       "name": "possible-bipartition.cpp",
       "createdAt": "2022-12-21T18:15:35.055Z"
     },
@@ -1073,10 +1077,6 @@
       "createdAt": "2021-12-27T18:27:38.499Z"
     },
     {
-      "name": "suffix-tries.cpp",
-      "createdAt": "2022-06-20T20:19:18.623Z"
-    },
-    {
       "name": "summary-ranges.cpp",
       "createdAt": "2022-02-28T18:28:53.834Z"
     },
@@ -1269,6 +1269,16 @@
     {
       "name": "youngest-common-ancestor.cpp",
       "createdAt": "2021-06-28T18:20:10.570Z"
+    }
+  ],
+  "Tries": [
+    {
+      "name": "design-add-and-search-words-data-structure.cpp",
+      "createdAt": "2023-03-19T18:29:00.055Z"
+    },
+    {
+      "name": "suffix-tries.cpp",
+      "createdAt": "2022-06-20T20:19:18.623Z"
     }
   ],
   "UnionFind": [
