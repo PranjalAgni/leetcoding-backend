@@ -1,6 +1,10 @@
 {
   "Adhoc": [
     {
+      "name": "average-salary-removing-min-and-max.cpp",
+      "createdAt": "2023-05-01T18:18:54.045Z"
+    },
+    {
       "name": "average-value-of-even-numbers-that-are-divisible-by-3.cpp",
       "createdAt": "2022-10-30T17:46:26.849Z"
     },
@@ -45,12 +49,20 @@
       "createdAt": "2021-11-27T21:49:13.119Z"
     },
     {
+      "name": "number-of-good-pairs.cpp",
+      "createdAt": "2023-10-03T07:48:11.539Z"
+    },
+    {
       "name": "number-of-steps-to-reduce-zero.cpp",
       "createdAt": "2022-05-29T16:39:18.221Z"
     },
     {
       "name": "number-of-valid-clock-times.cpp",
       "createdAt": "2022-10-28T18:40:16.412Z"
+    },
+    {
+      "name": "sign-of-product-of-array.cpp",
+      "createdAt": "2023-05-02T11:04:42.446Z"
     },
     {
       "name": "subsequence-of-length-k-max-sum.cpp",
@@ -131,6 +143,10 @@
       "createdAt": "2021-06-03T18:28:23.739Z"
     },
     {
+      "name": "longest-subarray-of-1s-after-deleting-one-element.cpp",
+      "createdAt": "2023-07-08T19:43:22.086Z"
+    },
+    {
       "name": "longest-subsequence-with-limited-sum.cpp",
       "createdAt": "2022-12-25T18:23:00.810Z"
     },
@@ -187,8 +203,16 @@
       "createdAt": "2023-03-21T18:26:35.339Z"
     },
     {
+      "name": "peak-index-in-mountain-array.cpp",
+      "createdAt": "2023-07-25T18:33:13.984Z"
+    },
+    {
       "name": "possible-bipartition.cpp",
       "createdAt": "2022-12-21T18:15:35.055Z"
+    },
+    {
+      "name": "predict-the-winner.cpp",
+      "createdAt": "2023-07-28T18:27:08.034Z"
     },
     {
       "name": "range-sum-query.cpp",
@@ -255,6 +279,10 @@
       "createdAt": "2021-09-08T13:42:39.001Z"
     },
     {
+      "name": "sort-array-by-parity.cpp",
+      "createdAt": "2023-09-30T12:21:40.367Z"
+    },
+    {
       "name": "sorted-square-array.cpp",
       "createdAt": "2021-05-30T19:33:26.159Z"
     },
@@ -305,6 +333,10 @@
       "createdAt": "2021-06-18T18:13:47.780Z"
     },
     {
+      "name": "minimum-speed-arrive-on-time.cpp",
+      "createdAt": "2023-07-26T17:55:42.968Z"
+    },
+    {
       "name": "plates-between-candle.cpp",
       "createdAt": "2021-11-04T19:48:18.360Z"
     },
@@ -315,6 +347,10 @@
     {
       "name": "search-for-range.cpp",
       "createdAt": "2021-09-15T18:36:13.711Z"
+    },
+    {
+      "name": "search-in-rotated-array.cpp",
+      "createdAt": "2023-08-10T16:57:16.235Z"
     },
     {
       "name": "search-in-sorted-matrix-2.cpp",
@@ -351,6 +387,10 @@
       "createdAt": "2021-11-23T13:39:32.520Z"
     },
     {
+      "name": "longest-increasing-subsequence.cpp",
+      "createdAt": "2023-08-02T18:22:39.346Z"
+    },
+    {
       "name": "max-sum-increasing-subsequence.cpp",
       "createdAt": "2021-11-16T18:36:01.646Z"
     },
@@ -361,6 +401,10 @@
     {
       "name": "staircase-traversal-1.cpp",
       "createdAt": "2021-08-27T05:34:08.098Z"
+    },
+    {
+      "name": "unique-paths.cpp",
+      "createdAt": "2023-09-30T12:20:36.055Z"
     }
   ],
   "Graphs": [
@@ -403,6 +447,10 @@
     {
       "name": "min-matrix-passes.cpp",
       "createdAt": "2021-07-01T18:22:59.722Z"
+    },
+    {
+      "name": "reconstruct-iternary.cpp",
+      "createdAt": "2023-10-01T11:52:25.233Z"
     },
     {
       "name": "remove-islands.cpp",
@@ -537,6 +585,64 @@
     {
       "name": "min-heap-implementation-1.cpp",
       "createdAt": "2021-07-20T15:59:01.255Z"
+    }
+  ],
+  "Javascript": [
+    {
+      "name": "array-prototype-last.js",
+      "createdAt": "2023-05-21T18:28:52.178Z"
+    },
+    {
+      "name": "cache-with-timelimit.js",
+      "createdAt": "2023-04-24T07:07:58.970Z"
+    },
+    {
+      "name": "call-function-with-custom-context.js",
+      "createdAt": "2023-06-15T17:57:38.172Z"
+    },
+    {
+      "name": "chunk-array.js",
+      "createdAt": "2023-05-15T06:46:59.463Z"
+    },
+    {
+      "name": "convert-object-to-json-string.js",
+      "createdAt": "2023-05-15T06:45:45.421Z"
+    },
+    {
+      "name": "counter.js",
+      "createdAt": "2023-08-08T18:28:30.814Z"
+    },
+    {
+      "name": "debounce.js",
+      "createdAt": "2023-04-25T18:19:19.036Z"
+    },
+    {
+      "name": "flatten-deepen-nested-array.js",
+      "createdAt": "2023-04-24T19:41:09.446Z"
+    },
+    {
+      "name": "function-composition.js",
+      "createdAt": "2023-05-02T13:25:47.963Z"
+    },
+    {
+      "name": "groupby-implementation.js",
+      "createdAt": "2023-05-02T13:17:46.580Z"
+    },
+    {
+      "name": "json-deep-equal.js",
+      "createdAt": "2023-05-12T18:00:12.965Z"
+    },
+    {
+      "name": "memoize.js",
+      "createdAt": "2023-04-24T07:21:03.666Z"
+    },
+    {
+      "name": "reduce-implementation.js",
+      "createdAt": "2023-05-02T13:08:44.666Z"
+    },
+    {
+      "name": "sleep.js",
+      "createdAt": "2023-08-09T15:32:55.818Z"
     }
   ],
   "LinkedList": [
@@ -699,8 +805,16 @@
       "createdAt": "2022-02-08T18:04:55.984Z"
     },
     {
+      "name": "bulb-switcher.cpp",
+      "createdAt": "2023-04-27T18:15:51.549Z"
+    },
+    {
       "name": "calculate-digit-sum-of-string.cpp",
       "createdAt": "2022-04-17T12:53:38.339Z"
+    },
+    {
+      "name": "check-straight-line.cpp",
+      "createdAt": "2023-06-05T18:25:57.496Z"
     },
     {
       "name": "is-power-of-4.cpp",
@@ -743,12 +857,20 @@
       "createdAt": "2021-05-15T18:47:17.549Z"
     },
     {
+      "name": "last-stone-weight.cpp",
+      "createdAt": "2023-04-24T20:22:16.692Z"
+    },
+    {
       "name": "sliding-window-maximum.cpp",
       "createdAt": "2021-05-24T08:28:09.577Z"
     },
     {
       "name": "time-needed-to-buy-tickets.cpp",
       "createdAt": "2021-12-02T13:53:16.627Z"
+    },
+    {
+      "name": "total-cost-to-hire-k-workers.cpp",
+      "createdAt": "2023-06-27T19:51:21.789Z"
     }
   ],
   "Recursion": [
@@ -787,8 +909,16 @@
   ],
   "SlidingWindow": [
     {
+      "name": "maximize-confusion-in-a-exam.cpp",
+      "createdAt": "2023-07-07T17:58:42.185Z"
+    },
+    {
       "name": "maximum-points-you-can-obtain-from-cards.cpp",
       "createdAt": "2022-06-26T18:26:17.084Z"
+    },
+    {
+      "name": "minimum-size-subarray-sum.cpp",
+      "createdAt": "2023-07-08T18:27:49.006Z"
     }
   ],
   "Sorting": [
@@ -993,12 +1123,24 @@
       "createdAt": "2022-10-24T13:56:03.098Z"
     },
     {
+      "name": "max-vowels-in-substring.cpp",
+      "createdAt": "2023-05-05T17:52:23.754Z"
+    },
+    {
       "name": "maximum-product-of-word-length.cpp",
       "createdAt": "2022-05-29T18:09:37.543Z"
     },
     {
       "name": "min-deletions-to-make-characters-unique.cpp",
       "createdAt": "2022-06-28T16:57:41.048Z"
+    },
+    {
+      "name": "minimum-delete-sum-optimized.cpp",
+      "createdAt": "2023-08-01T10:07:58.057Z"
+    },
+    {
+      "name": "minimum-delete-sum.cpp",
+      "createdAt": "2023-07-31T18:26:46.267Z"
     },
     {
       "name": "minimum-time-to-type-word.cpp",
@@ -1025,12 +1167,20 @@
       "createdAt": "2022-08-30T18:26:05.726Z"
     },
     {
+      "name": "remove-colored-pieces-if-both-neighbors-are-the-same-color.cpp",
+      "createdAt": "2023-10-02T18:03:55.242Z"
+    },
+    {
       "name": "remove-k-adjacent-duplicates.cpp",
       "createdAt": "2022-05-06T17:52:55.708Z"
     },
     {
       "name": "reverse-the-vowels.cpp",
       "createdAt": "2021-11-30T20:26:03.675Z"
+    },
+    {
+      "name": "reverse-word-in-string-3.cpp",
+      "createdAt": "2023-10-01T12:14:36.525Z"
     },
     {
       "name": "reverse-word-in-substring.cpp",
@@ -1067,6 +1217,10 @@
     {
       "name": "sorting-mail.cpp",
       "createdAt": "2022-03-11T18:18:13.830Z"
+    },
+    {
+      "name": "strange-printers.cpp",
+      "createdAt": "2023-07-30T18:28:26.325Z"
     },
     {
       "name": "stream-of-characters.cpp",
