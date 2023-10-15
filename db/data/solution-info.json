@@ -29,6 +29,10 @@
       "createdAt": "2022-07-06T18:19:18.080Z"
     },
     {
+      "name": "integer-break.cpp",
+      "createdAt": "2023-10-06T21:26:11.712Z"
+    },
+    {
       "name": "integer-to-roman.cpp",
       "createdAt": "2022-10-20T18:00:53.932Z"
     },
@@ -43,6 +47,10 @@
     {
       "name": "max-distance-between-houses.cpp",
       "createdAt": "2021-11-27T10:58:41.040Z"
+    },
+    {
+      "name": "min-cost-climbing-stairs.cpp",
+      "createdAt": "2023-10-13T12:56:27.957Z"
     },
     {
       "name": "minimum-buckets-to-trap-rainwater.cpp",
@@ -155,6 +163,10 @@
       "createdAt": "2022-01-25T19:54:08.921Z"
     },
     {
+      "name": "major-array-2.cpp",
+      "createdAt": "2023-10-05T18:28:40.314Z"
+    },
+    {
       "name": "majority-element.cpp",
       "createdAt": "2022-02-22T18:14:43.310Z"
     },
@@ -169,6 +181,10 @@
     {
       "name": "maximum-matrix-sum.cpp",
       "createdAt": "2021-09-08T17:00:19.310Z"
+    },
+    {
+      "name": "maximum-value-of-ordered-triplets.cpp",
+      "createdAt": "2023-10-07T14:55:32.032Z"
     },
     {
       "name": "median-minimization.cpp",
@@ -327,6 +343,14 @@
     {
       "name": "capacity-to-ship-in-D-days.cpp",
       "createdAt": "2021-06-18T18:14:34.935Z"
+    },
+    {
+      "name": "find-in-mountain-array.cpp",
+      "createdAt": "2023-10-14T15:02:05.448Z"
+    },
+    {
+      "name": "first-and-last-element-bs.cpp",
+      "createdAt": "2023-10-09T18:25:32.388Z"
     },
     {
       "name": "min-days-to-form-m-boquets.cpp",
@@ -915,6 +939,10 @@
     {
       "name": "maximum-points-you-can-obtain-from-cards.cpp",
       "createdAt": "2022-06-26T18:26:17.084Z"
+    },
+    {
+      "name": "minimum-size-subarray-in-infinite-array.cpp",
+      "createdAt": "2023-10-11T18:25:31.834Z"
     },
     {
       "name": "minimum-size-subarray-sum.cpp",
